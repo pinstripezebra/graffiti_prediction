@@ -1,0 +1,13 @@
+graffiti_streetview/
+graffiti_streetview
+.venv
+Data/
+Data-Clean
+test
+my_model.pkl
+low_threshold_model.pkl
+high_threshold_model.pkl
+smote_05_model.pkl
+history
+models
+backup
